@@ -5,186 +5,126 @@ Manfaat Perancangan Topologi Jaringan
 Topologi jaringan menjadikan sebuah sistem networking menjadi lebih terstruktur, terancang dan jelas. Apa saja sih manfaat sebuah topologi jaringan ?
 
 1.Arah jalur internet menjadi jelas, jadi memudahkan network engineer untuk melakukan konfigurasi
-
 2.Dapat meminimalisir biaya instalasi jaringan, karena semua sudah dihitung dengan matang dalam topologi jaringan. Jadi minim kemungkinan perangkat kelebihan maupun kurang
-
 3.Memudahkan dalam maintenance maupun upgrade di sisi network engineer. Karena semua telah terstruktur dengan rinci, pemberian label pada setiap kabel juga akan menjadi nilai plus.
-
 4.Penggunaan menjadi sangat mudah di sisi user. Semua bisa saling berkomunikasi dengan baik.
-
 Jenis – jenis Topologi Jaringan
 Topologi Jaringan juga mempunyai beberapa jenis. Pemilihan sebuah topologi jaringan tergantung kebutuhan user. Mulai dari berapa perangkat yang akan diinstalasi, jarak jangkauan suatu WiFi, berapa ruangan yang akan masuk dalam proses instalasi, dsb. Misalkan, membangun sistem jaringan di lab sekolah, berarti lebih cocok menggunakan topologi star.
 
-Berikut adalah jenis – jenis topologi jaringan komputer
-
+Berikut adalah jenis – jenis topologi jaringan komputer :
 1. Topologi Bus
-
 2. Topologi Star
-
 3. Topologi Ring
-
 4. Topologi Mesh
-
 5. Topologi Tree
 
-Setiap jenis topologi jaringan diatas memiliki karakteristik yang berbeda. Apa saja sih yang membedakan ? Yuk simak penjelasannya
+Setiap jenis topologi jaringan diatas memiliki karakteristik yang berbeda. Apa saja sih yang membedakan ?
 
 1. Topologi Bus
-
 
 Topologi Jaringan Bus merupakan topologi jaringan yang pertama kali digunakan dalam mengubungkan komputer. Media transmisi yang digunakan berupa sebuah kabel panjang dengan beberapa terminal yang nantinya akan terhubung ke masing – masing komputer, dan pada ujung kabel harus diakhiri dengan satu terminator. Topologi jaringan ini sudah sangat jarang dipakai di suatu perusahaan maupun instasi karena resiko yang ditimbulkan terlalu besar. Mulai dari tingginya resiko tabrakan data, dan jika ada suatu perangkat komputer yang rusak, maka jaringan langsung tidak bisa berfungsi sebelum diperbaiki.
 
-Topologi Bus mempunyai beberapa karakteristik, yaitu
-
+Topologi Bus mempunyai beberapa karakteristik, yaitu :
 1. Biaya yang murah dalam instalasi, karena hanya membutuhkan beberapa perangkat
-
 2. Proses instalasi mudah dan sederhana
-
 3. Node dihubungkan secara serial pada kabel, dan pada ujung kabel ditutup dengan terminator
-
 4. Tidak diperlukan sebuah HUB karena hanya butuh connector
-
 5. Jika salah satu perangkat ada yang rusak, maka seluruh jaringan dapat terjadi down, sehingga semua user tidak bisa berkomunikasi dalam jaringan tersebut
 
-Kelebihan Topologi Bus
-
+Kelebihan Topologi Bus :
 1. Sistem topologi yang sangat sederhana
-
 2. Biaya yang lebih murah dari pada topologi jaringan lainnya
-
 3. Membutuhkan kabel yang sedikit
 
-Kekurangan Topologi Bus
-
+Kekurangan Topologi Bus :
 1. Tidak cocok untuk penggunaan pada traffic yang padat
-
 2. Sulit dalam melakukan maintenance
-
 3. Koneksi lebih lambat dari pada topologi yang lain
 
 2. Topologi Star
 
-
 Topologi jaringan ini memiliki bentuk yang sama seperti bintang, dengan HUB sebagai media penghubung ke setiap perangkat komputer seperti gambar topologi star diatas. Topologi Star biasa digunakan dalam lab komputer di suatu sekolah.
 
-Berikut ini adalah karakteristik Topologi Star,
-
+Berikut ini adalah karakteristik Topologi Star:
 1. Semakin banyak perangkat user di topologi star yang terhubung dalam suatu HUB, maka kinerja jaringan akan menurun
-
 2. Setiap perangkat user akan berkomunikasi langsung dengan HUB
-
 3. Topologi star mudah untuk dikembangkan
-
 4. Jika salah satu perangkat user rusak maka jaringan masih bisa berjalan dengan baik
-
 5. Kabel UTP sebagai media transmisi
 
-Kelebihan Topologi Star
-
+Kelebihan Topologi Star :
 1. Topologi star mudah dalam pengembangan suatu jaringan
-
 2. Topologi star minim trouble, jika ada perangkat user yang trouble, tidak akan mempengaruhi kinerja jaringan
 
-Kekurangan Topologi Star
-
+Kekurangan Topologi Star :
 1. Topologi star hanya memiliki 1 tumpuan, yaitu pada perangkat HUB, jika HUB mengalami trouble, maka akan berpengaruh ke semua perangkat user yang berada dalam topologi star
-
 2. Biaya yang relatif mahal, karena membutuhkan banyak kabel yang dihubungkan dari HUB ke perangkat user
-
 3. Jumlah port yang terbatas pada HUB
 
-3. Topologi Ring
 
+3. Topologi Ring
 
 Topologi ring digunakan dalam jaringan dengan performa yang tinggi, karena membutuhkan bandwidth yang besar untuk beberapa fitur yang digunakan. Pada topologi ring, masing-masing titik memiliki fungsi sebagai repeater.
 
 Karakteristik topologi ring antara lain :
-
 1. Titik-titik dihubungkan secara serial di sepanjang kabel, dengan bentuk jaringan menyeruoai cincin.
-
 2. Tipe kabel yang biasa digunakan adalah kabel UTP
-
 3. Trouble yang dihadapi mirip dengan topologi bus, yaitu apabila satu titik rusak maka seluruh titik tidak dapat berkomunikasi dalam jaringan itu.
-
 4. Paket-paket data dapat mengalir dalam satu arah sehingga collision dapat dihindarkan
 
-Kelebihan Topologi Ring
-
+Kelebihan Topologi Ring :
 1. Waktu lebih optimal dalam mengakses suatu data
-
 2. Data mengalir dalam satu arah sehingga minim terjadi collision
-
 3. Kualitas aliran data lebih cepat karena dapat melayani data secara fleksibel
-
 4. Dapat melayani aliran lalulintas data yang padat, karena data dapat bergerak secara fleksibel
 
-Kekurangan Topologi Ring
-
+Kekurangan Topologi Ring :
 1. Sulit melakukan Konfigurasi Ulang
-
 2. Menambah atau mengurangi komputer akan membuat jaringan kacau
-
 3. Apabila terdapat salah satu komputer yang tidak berfungsi, maka akan mempengaruhi jaringan secara keseluruhan.
-
 4.Topologi Mesh
 
 
-Topologi mesh adalah gabungan dari topologi ring dan topologi star. Secara pengertian topologi mesh adalah suatu bentuk hubungan antar perangkat/pc dimana masing-masing perangkat terhubung secara langsung ke perangkat lainya dalam jaringan.
+4.  Topologi mesh adalah gabungan dari topologi ring dan topologi star. Secara pengertian topologi mesh adalah suatu bentuk hubungan antar perangkat/pc dimana masing-masing perangkat terhubung secara langsung ke perangkat lainya dalam jaringan.
 
-Karakteristik Topologi Mesh
-
+Karakteristik Topologi Mesh :
 1. Susunan pada setiap peralatan yang ada didalam topologi mesh saling terhubung satu sama lain
-
 2. Jika peralatan banyak akan sangat sulit untuk melakukan maintenance pada topologi mesh
 
-Kelebihan Topologi Mesh
-
+Kelebihan Topologi Mesh :
 1. Keuntungan utama topologi mesh memiliki backup jalur
-
 2. Troubleshoot yang mudah
 
-Kekurangan Topologi Mesh
-
+Kekurangan Topologi Mesh :
 1. Topologi mesh memerlukan biaya yang mahal
-
 2. Instalasi dan maintenance topologi mesh yang sulit apabila terjadi kerusakan
+
 
 5. Topologi Tree
 
-
 Topologi tree merupakan gabungan dari beberapa topologi star yang dihubungkan dengan topologi bus. Topologi tree merupakan topologi jaringan yang banyak digunakan saat ini, karena topologi tree memiliki sistem yang mudah untuk manajemen jaringan. Topologi tree merupakan topologi jaringan yang kompleks, karena topologi tree biasanya digunakan untuk sistem jaringan utama.
 
-Kelebihan Topologi Tree
-
+Kelebihan Topologi Tree :
 1. Mudah untuk troubleshooting pada topologi tree
-
 2. Mudah melakukan re-topologi
 
-Kekurangan Topologi Tree
-
+Kekurangan Topologi Tree :
 1. Memerlukan banyak kabel
-
 2. Sering terjadi collision & lambat
-
 3. Jika terjadi gangguan pada jaringan pusat maka jaringan dibawahnya akan ikut terganggu
+
 
 6. Topologi Hybrid
 Merupakan sebuah topologi jaringan baru, yang tercipta antara beberapa topologi jaringan yang berbeda jenis. Topologi Hybrid terlihat lebih rumit karena merupakan gabungan dari topologi jaringan yang berbeda jenis. Contoh nya adalah gabungan antara topologi tree, star, dan mesh. 
 
 Kelebihan Topologi Hybrid :
-
 1. Dapat digunakan di lingkungan yang digunakan
-
 2. Jika salah satu titik mengalami gangguan tidak akan mempengaruhi kinerja titik yang lain
-
 3. Kecepatan transfer data lebih cepat
 
 Kekurangan Topologi Hybrid :
-
 1. Topologi memerlukan biaya yang cukup mahal
-
 2. Proses pengolahan yang cukup rumit
-
 3. Instalasi dan konfigurasi rumit
 
 Demikian pembahasan terkait pengertian topologi jaringan dan jenis – jenis nya, semoga bermanfaat !
