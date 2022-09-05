@@ -1,1 +1,28 @@
+Apa itu Jaringan Internet? Internet merupakan sebuah jaringan komunikasi global yang menghubungkan komputer dan jaringan komputer di seluruh dunia.
+
+jenis-jenis jaringan:
+1. PAN ( Personal Area Network )
+sesuai menggunakan namanya, area lingkup jaringan ini sangat mungil yaitu hanya mencakup perseorangan dan memiliki batas jangkauan yang terbilang pendek. Batas jangkauan jaringan ini kurang lebih 10 meter. Memang, istilah PAN terdengar asing serta tidak terkenal seperti kata lain seperti LAN ataupun yg lainnya. galat satu bentuk penggunaan jaringan PAN ialah jaringan Bluetooth.
+
+2. HAN ( Home Area Network )
+Jaringan internet ini hanya mencakup satu buah rumah saja. Sama semerti kata PAN, kata HAN jua sporadis digunakan. salah satu contoh asal jaringan ini artinya waktu memasang televisi berlangganan yang dilengkapi menggunakan internet. umumnya jaringan tersebut dihubungkan menggunakan router yg ditempatkan di dalam tempat tinggal .
+
+3. LAN ( Local Area Network )
+LAN merupakan jaringan komputer atau jaringan internet yg hanya mencakup daerah mungil, namun lebih besar daripada PAN. LAN hanya mampu mencakup daerah tidak lebih dari 1 kilometer persegi. umumnya LAN dipergunakan hanya dalam satu gedung saja. pada penggunaannya, umumnya digunakan kabel menggunakan teknologi IEEE 802.tiga, yaitu kabel Ethernet, buat menghubungkan antar perangkat komputer dalam jaringan. contoh pengaplikasian berasal LAN artinya warnet alias warung internet, mereka memakai LAN buat menghubungkan billing dengan OP (server). Selain menggunakan teknologi Ethernet, LAN jua memakai teknologi 802.11b yang lebih dikenal dengan istilah Wi-Fi. LAN yg menggunakan Wi-Fi disebut dengan WLAN atau Wireless Local Area Network.nis jaringan berikut dibawah ini :
+
+4. MAN ( Metropolitan Area Network )
+Jaringan MAN adalah pengembangan asal jaringan LAN sehingga bisa mencakup wilayah yg lebih luas. Jaringan ini bisa meliputi daerah menggunakan luas berkisar 10-50 km, sebagai akibatnya pada umumnya jaringan ini bisa menghubungkan personal komputer yang berada di lain kota atau kabupaten namun masih berada pada satu provinsi atau masih berada dalam radius kurang asal 50 km. Jaringan MAN didukung oleh kabel menggunakan kecepatan transfer data yg tinggi, sehingga memungkinkan penerimaan info antar komputer berlangsung sangat cepat. Jaringan MAN sebenarnya adonan berasal beberapa LAN. Jaringan ini hanya mempunyai satu atau dua kabel dan tidak dilengkapi dengna elemen switching, sebagai akibatnya rancangan menjadi lebih praktis. model bentuk penggunaannya yaitu jaringan departemen menggunakan beberapa tempat kerja departemen tingkat kabupaten atau kota dihubungkan antara satu dengan lainnya.
+
+5. WAN ( Wide Area Network )
+Jaringan WAN artinya jaringan internet paling luas yang mencakup wilayah sangat luas, bahkan bisa meliputi seluruh luas wilayah suatu negara. Sebenarnya WAN mirip dengan MAN yaitu sama-sama menghubungkan beberapa LAN. akan tetapi, jumlah LAN yg bisa dihubungkan sang jaringan WAN jauh lebih banyak daripada yang mampu dihubungkan sang jaringan MAN.
+
+6. CAN Campus/Corporate Area Network (CAN) adalah jaringan yang menghubungkan aneka perangkat dan komputer dalam sebuah instansi pendidikan seperti sekolah, kampus, universitas, institut, dan lain sebagainya. CAN juga bisa digunakan untuk menghubungkan berbagai perangkat dalam satu bangunan perusahaan yang memiliki banyak ruangan. Untuk segmen sekolah, CAN sendiri biasanya digunakan untuk mempermudah proses administrasi dan akademik dari sebuah lembaga pendidikan tersebut, seperti memproses nilai, menginput performa peserta didik, dan lain sebagainya.
+
+7. SAN Storage-Area Network (SAN) adalah sebuah jaringan yang menghubungkan komputer dengan sejumlah media penyimpanan (storage) berkemampuan tinggi dalam sebuah server. Sebuah perangkat bisa mengakses jaringan SAN ini, begitu juga mengambil data yang ada di dalamnya jika mereka terhubung dengan server yang menjadi jembatan untuk media penyimpanan tersebut. 
+
+8. POLAN Jaringan POLAN (Passive Optical Local Area Network) dipakai sebagai alternatif dari LAN. Namun, alih-alih menggunakan kabel biasa, POLAN memanfaatkan kabel fiber optik untuk melancarkan proses transmisi antar perangkat. Kabel fiber optik sendiri dikenal memiliki performa yang cukup cepat untuk mentransmisikan data dari suatu perangkat ke perangkat lainnya. Jaringan POLAN biasanya dipakai untuk menyambungkan fiber optik ke perangkat router, sehingga nantinya internet bisa disalurkan ke gadget di sekitarnya melalui jaringan WLAN.
+
+9. EPN Enterprise Private Network (EPN) biasanya digunakan untuk menyambungkan berbagai perangkat, storage, komputer, dan lain sebagainya dalam satu perusahaan besar. Kegunaan EPN tentunya ada di segi keamanannya, sehingga jaringan EPN biasa digunakan oleh perusahaan-perusahaan yang menyimpan berbagai data krusial, seperti data pribadi pengguna. Contoh kegunaan EPN adalah menghubungkan jaringan perusahaan cabang dengan kantor pusat, mentransfer data dari bangunan di sebuah kampus ke bangunan lainnya tanpa menggunakan intenet, dan lain sebagainya. 
+
+10. VPN Virtual Private Network (VPN) adalah suatu jaringan yang bisa digunakan untuk membuat kegiatan internet pengguna menjadi lebih aman dan tak bisa dilacak. Pasalnya, jaringan VPN memungkinkan koneksi internet pengguna terhubung ke suatu jaringan pribadi yang dimiliki suatu perusahaan atau server.
 
